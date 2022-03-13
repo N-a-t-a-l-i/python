@@ -1,4 +1,4 @@
-st = ""
+st = ""  '''Egor pomidor'''
 
 with open ('dataset_3363_2.txt', 'r') as file:
     s = file.readline().strip()+'z'
