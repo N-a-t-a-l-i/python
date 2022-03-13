@@ -6,6 +6,11 @@ with open ('dataset_3363_2.txt', 'r') as file:
     number_str = "0"
     alpha = ""
     
+    'rrr'
+    
+    fff
+    hello
+    
     for symbol in s:
         if symbol.isalpha():
             number = int(number_str)
